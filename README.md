@@ -1,4 +1,4 @@
-Description of Program
+To gain experience with Java's Linked List.
 
 You are to write a program name phonedir.java that maintains a list of records containing names and
 
