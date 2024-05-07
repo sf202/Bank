@@ -23,9 +23,10 @@
 
 #### s Select a record from the record list to become the current record
 
-Enter a command from the list above (q to quit): a
-
-First Name         Last Name            Phone Number
+#### Enter a command from the list above (q to quit): a
 
 
------------       ----------       ---------------------
+| First Name | Last Name | Phone Number |
+| :---         |     :---:      |          ---: |
+| --- ------   | --- ------     | --- ------    |
+
